@@ -1,0 +1,151 @@
+{
+  "id": "vFgsPGs7MaH7rJBIFWaCjsC",
+  "name": "Scene 5",
+  "referencePoint1": {
+    "x": -1,
+    "y": 0,
+    "z": 0
+  },
+  "referencePoint2": {
+    "x": 1,
+    "y": 0,
+    "z": 0
+  },
+  "items": [
+    {
+      "name": "Item 1",
+      "color": "#FF2020",
+      "position": {
+        "x": -1,
+        "y": 0,
+        "z": 2
+      }
+    },
+    {
+      "name": "Item 2",
+      "color": "#FF2020",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 3
+      }
+    },
+    {
+      "name": "Item 3",
+      "color": "#FF2020",
+      "position": {
+        "x": 1,
+        "y": 0,
+        "z": 4
+      }
+    },
+    {
+      "name": "Item 4",
+      "color": "#FF2020",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 5
+      }
+    },
+    {
+      "name": "Item 5",
+      "color": "#FF2020",
+      "position": {
+        "x": -1,
+        "y": 0,
+        "z": 6
+      }
+    },
+    {
+      "name": "Item 6",
+      "color": "#FF2020",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 7
+      }
+    },
+    {
+      "name": "Item 7",
+      "color": "#FF2020",
+      "position": {
+        "x": 1,
+        "y": 0,
+        "z": 8
+      }
+    },
+    {
+      "name": "Item 8",
+      "color": "#FF2020",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 9
+      }
+    },
+    {
+      "name": "Item 9",
+      "color": "#FF2020",
+      "position": {
+        "x": -1,
+        "y": 0,
+        "z": 10
+      }
+    },
+    {
+      "name": "Item 10",
+      "color": "#FF2020",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 11
+      }
+    },
+    {
+      "name": "Item 11",
+      "color": "#FF2020",
+      "position": {
+        "x": 1,
+        "y": 0,
+        "z": 12
+      }
+    },
+    {
+      "name": "Item 12",
+      "color": "#FF2020",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 13
+      }
+    },
+    {
+      "name": "Item 13",
+      "color": "#FF2020",
+      "position": {
+        "x": -1,
+        "y": 0,
+        "z": 14
+      }
+    },
+    {
+      "name": "Item 14",
+      "color": "#FF2020",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 15
+      }
+    },
+    {
+      "name": "Item 15",
+      "color": "#FF2020",
+      "position": {
+        "x": 1,
+        "y": 0,
+        "z": 16
+      }
+    }
+  ]
+}

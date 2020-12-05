@@ -1,0 +1,43 @@
+{
+  "id": "AMfICy52sInkFdwmQHR9gje",
+  "name": "Scene 1",
+  "referencePoint1": {
+    "x": -1,
+    "y": 0,
+    "z": 0
+  },
+  "referencePoint2": {
+    "x": 1,
+    "y": 0,
+    "z": 0
+  },
+  "items": [
+    {
+      "name": "Item 1",
+      "color": "#FF2020",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 3
+      }
+    },
+    {
+      "name": "Item 2",
+      "color": "#00FF24",
+      "position": {
+        "x": 2,
+        "y": 0,
+        "z": 1.5
+      }
+    },
+    {
+      "name": "Item 3",
+      "color": "#6D95FF",
+      "position": {
+        "x": -2,
+        "y": 0,
+        "z": 1.5
+      }
+    }
+  ]
+}

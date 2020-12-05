@@ -1,0 +1,133 @@
+{
+  "id": "m4LbcD4iAZ8zHqRjbCuGap5",
+  "name": "Scene 3",
+  "referencePoint1": {
+    "x": -1,
+    "y": 0,
+    "z": 0
+  },
+  "referencePoint2": {
+    "x": 1,
+    "y": 0,
+    "z": 0
+  },
+  "items": [
+    {
+      "name": "Item 1",
+      "color": "#FF2020",
+      "position": {
+        "x": 0,
+        "y": 1,
+        "z": 1.5
+      }
+    },
+    {
+      "name": "Item 2",
+      "color": "#6D95FF",
+      "position": {
+        "x": 2,
+        "y": 1,
+        "z": 1.5
+      }
+    },
+    {
+      "name": "Item 3",
+      "color": "#00FF24",
+      "position": {
+        "x": -2,
+        "y": 1,
+        "z": 1.5
+      }
+    },
+    {
+      "name": "Item 4",
+      "color": "#6D95FF",
+      "position": {
+        "x": 1,
+        "y": 0,
+        "z": 2.5
+      }
+    },
+    {
+      "name": "Item 5",
+      "color": "#FF2020",
+      "position": {
+        "x": -1,
+        "y": 0,
+        "z": 2.5
+      }
+    },
+    {
+      "name": "Item 6",
+      "color": "#6D95FF",
+      "position": {
+        "x": 0,
+        "y": -1,
+        "z": 3.5
+      }
+    },
+    {
+      "name": "Item 7",
+      "color": "#00FF24",
+      "position": {
+        "x": 2,
+        "y": -1,
+        "z": 3.5
+      }
+    },
+    {
+      "name": "Item 8",
+      "color": "#FF2020",
+      "position": {
+        "x": -2,
+        "y": -1,
+        "z": 3.5
+      }
+    },
+    {
+      "name": "Item 9",
+      "color": "#00FF24",
+      "position": {
+        "x": 1,
+        "y": 0,
+        "z": 4.5
+      }
+    },
+    {
+      "name": "Item 10",
+      "color": "#6D95FF",
+      "position": {
+        "x": -1,
+        "y": 0,
+        "z": 4.5
+      }
+    },
+    {
+      "name": "Item 11",
+      "color": "#FF2020",
+      "position": {
+        "x": 0,
+        "y": 1,
+        "z": 5.5
+      }
+    },
+    {
+      "name": "Item 12",
+      "color": "#6D95FF",
+      "position": {
+        "x": 2,
+        "y": 1,
+        "z": 5.5
+      }
+    },
+    {
+      "name": "Item 13",
+      "color": "#00FF24",
+      "position": {
+        "x": -2,
+        "y": 1,
+        "z": 5.5
+      }
+    }
+  ]
+}
